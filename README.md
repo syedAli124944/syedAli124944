@@ -2,7 +2,7 @@
 im am a frontend web developer aiming to be a web security expert , i have done and complete HTML , CSS JS , Bootstraps,  moreover im learning React and Exploring deep dive into these technologies one after another <br>i also have basic of python , Mysql <br>
 
 ## 🌐 Socials:
-LinkedIn => [![LinkdIn]](https://img.linkedin.com/in/syed-ali-b10067299/)
+LinkedIn => [![LinkdIn]](https://www.linkedin.com/in/syed-ali-b10067299/)
 
 
 # 💻 Tech Stack:
